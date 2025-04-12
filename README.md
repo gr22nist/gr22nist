@@ -40,7 +40,16 @@ Figma / Adobe Creative / UI·UX Design
 ## 📫 Contact
 
 gr22nist@gmail.com  
-[GitAnimals](https://github.com/devxb/gitanimals)
+
+<div>
+ <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gr22nist"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
 
 ---
 
