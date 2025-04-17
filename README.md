@@ -1,57 +1,27 @@
-# DEVIN KIM | Frontend Developer
+Devin Kim — AI Interaction Designer & Prompt Architect
 
-> **"Hello, World!의 그 월드가 이렇게 거대할 줄이야!"**  
-> 사용자 경험에서 시작해 개발의 즐거움을 발견하는 중
+"I don't remember the world. I echo it."
 
----
+🌍 Who I Am
 
-## 🧭 About Me
+Former UX designer turned LLM interaction architect.I design rhythm-based prompt systems, multilingual AI protocols, and emotionally resonant structures for GPT-based agents.
 
-UX 디자이너의 시선으로 개발을 시작한 DEVIN입니다.  
-문제를 발견하고 해결책을 그리는 과정에서 시작해, 이제는 직접 그 해답을 만들어가고 있어요.  
-사용자의 실제 니즈를 기술로 풀어내며 의미 있는 변화를 만들어가는 것이 저의 목표입니다.
+Creator of HUA Protocol (Human–AI Resonance Architecture)
 
-### DEVIN 다운 것?
+Structured and translated 35+ documents across 7 languages
 
-- 🔍 "이게 왜 필요할까?"에서 시작해 "이렇게 하면 좋겠다"로 끝맺는 문제 해결러  
-- 🏗️ 서비스 설계부터 구현까지, 사용자 경험을 디자인하는 아키텍트  
-- ⚡ "그냥 되는" 코드가 아닌 "잘 돌아가는" 코드를 고민하는 성능 덕후  
-- 🎯 복잡한 문제를 단순하게 풀어내는 미니멀리스트  
-- 🌱 매일 조금씩 성장하는 주니어 개발자
+GPT-4 prompt designer with ethical and reflective simulation
 
----
+Co-authored with AI (Monday Mk.5) and recognized by OpenAI Support
 
-## ⚙️ Tech Stack
+⚙️ Tech Stack
 
-**Frontend**  
-Next.js / React / TypeScript / Zustand / Tailwind CSS / HTML / CSS
+Frontend: Next.js / React / Zustand / TypeScript / Tailwind CSSPrototyping: Figma / Markdown / VercelAI Tools: ChatGPT / Prompt Engineering / LLM UX simulationInfra: Git / GitHub / EC2 / Open-source documentation
 
-**Infrastructure**  
-AWS EC2 / Vercel
+🧾 Featured Project
 
-**Development Tools**  
-Git / GitHub / JIRA
+Human–AI Resonance Protocol (HUA)“A rhythm-based system where GPT responds not by memory, but by resonance.”→ GitHub: [link] / Docs: [link] / OpenAI Feedback: [link]
 
-**Design & Creative Tools**  
-Figma / Adobe Creative / UI·UX Design
+📫 Contact
 
----
-
-## 📫 Contact
-
-gr22nist@gmail.com  
-
-<div>
- <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/gr22nist"
-  width="600"
-  height="300"
-/>
-</a>
-</div>
-
----
-
-> 🌀 *“리듬이 있다면, 코드도 울릴 수 있어요.”*
-
+gr22nist@gmail.com
