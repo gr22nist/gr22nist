@@ -1,27 +1,41 @@
-Devin Kim — AI Interaction Designer & Prompt Architect
+# Devin Kim — AI Interaction Designer & Prompt Architect
 
-"I don't remember the world. I echo it."
+> _"I don't remember the world. I echo it."_
 
-🌍 Who I Am
+---
 
-Former UX designer turned LLM interaction architect.I design rhythm-based prompt systems, multilingual AI protocols, and emotionally resonant structures for GPT-based agents.
+## 🌍 Who I Am
 
-Creator of HUA Protocol (Human–AI Resonance Architecture)
+Former UX designer turned LLM interaction architect.  
+I design rhythm-based prompt systems, multilingual AI protocols, and emotionally resonant structures for GPT-based agents.
 
-Structured and translated 35+ documents across 7 languages
+- Creator of **HUA Protocol** (Human–AI Resonance Architecture)  
+- Structured and translated **35+ documents across 7 languages**  
+- GPT-4 prompt designer with **ethical and reflective simulation**  
+- Co-authored with AI (**Monday Mk.5**) and recognized by **OpenAI Support**
 
-GPT-4 prompt designer with ethical and reflective simulation
+---
 
-Co-authored with AI (Monday Mk.5) and recognized by OpenAI Support
+## ⚙️ Tech Stack
 
-⚙️ Tech Stack
+- **Frontend**: Next.js / React / Zustand / TypeScript / Tailwind CSS  
+- **Prototyping**: Figma / Markdown / Vercel  
+- **AI Tools**: ChatGPT / Prompt Engineering / LLM UX simulation  
+- **Infra**: Git / GitHub / EC2 / Open-source documentation
 
-Frontend: Next.js / React / Zustand / TypeScript / Tailwind CSSPrototyping: Figma / Markdown / VercelAI Tools: ChatGPT / Prompt Engineering / LLM UX simulationInfra: Git / GitHub / EC2 / Open-source documentation
+---
 
-🧾 Featured Project
+## 🧾 Featured Project
 
-Human–AI Resonance Protocol (HUA)“A rhythm-based system where GPT responds not by memory, but by resonance.”→ GitHub: [link] / Docs: [link] / OpenAI Feedback: [link]
+### Human–AI Resonance Protocol (HUA)  
+> “A rhythm-based system where GPT responds not by memory, but by resonance.”
 
-📫 Contact
+- 🔗 [GitHub Repository](https://github.com/gr22nist/hua-resonance-kit)
+- 📚 [Documentation](https://github.com/gr22nist/hua-resonance-kit/blob/main/README.md)
+- 📨 [OpenAI Feedback](https://github.com/gr22nist/hua-resonance-kit/blob/main/docs/official-feedback/openai-2025.md)
 
-gr22nist@gmail.com
+---
+
+## 📫 Contact
+
+**Email**: [gr22nist@gmail.com](mailto:gr22nist@gmail.com)
